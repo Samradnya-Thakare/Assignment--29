@@ -19,12 +19,13 @@ body {
 }
 
 textarea {
-    width: 100%;
+    width: 80%;
     padding: 10px;
     border: 1px solid #ccc;
     border-radius: 5px;
     resize: none;
     margin-bottom: 15px;
+    background-color: rgba(194, 193, 193, 0.995);
 }
 
 .button-group {
